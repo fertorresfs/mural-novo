@@ -1,5 +1,3 @@
 from time import sleep
 
-print("Felipe Paixão")
-print("Espero que eu já esteja para virar um cientista de dados!")
-sleep(1)
+print("Meu nome é Fernando Torres, matriculado no curso de Ciências de Dados, primeiro ano, daqui 3 anos espero mandar bem em ciência de dados!!! :D")
