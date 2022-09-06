@@ -8,4 +8,5 @@ print("Thais Faustino: espero estar formada em TI e trabalhando como programador
 sleep(1)
 print("Vamo que vamo meu povo")
 sleep(1)
-vou precisar muito da ajuda de vocês (Monniduka)
+print("Fernando Torres: bora programar galera, vamos codar muito!!! :P")
+sleep(1)
